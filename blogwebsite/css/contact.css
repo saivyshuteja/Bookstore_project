@@ -1,0 +1,28 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 30px 170px;
+ overflow: hidden;
+width: 40%;
+
+box-shadow: 5px 5px 5px black;
+
+}
+.inp{
+    padding: 10px 20px;
+}
+input{
+    padding: 10px 190px;
+    box-shadow: 2px 2px 2px yellowgreen;
+}
+ button{
+    padding: 5px 18px;
+    font-weight: bold;
+}
+.button{
+    padding: 0 18px;
+}
+textarea{
+    padding: 10px 190px;
+    box-shadow: 2px 2px 2px yellowgreen;
+}

@@ -1,0 +1,10 @@
+.container{
+     
+   background-image: linear-gradient( 50deg,yellow ,white);
+    z-index: 10;
+    background-repeat: no-repeat;
+    background-size: 100%;
+     color:black;
+
+}
+
