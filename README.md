@@ -1,2 +1,2 @@
 # Bookstore_project
-using html css js
+using html css javascript
