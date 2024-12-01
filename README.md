@@ -1,2 +1,2 @@
 # Bookstore_project
-using reactjs 
+using html css js
